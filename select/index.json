@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "シュレディンガー・シュガー（feat. 初音ミク）",
+  "base_artist": "ヤマギシコージ",
+  "createdAt": "2026-03-11T09:38:27.892230Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シュレディンガー・シュガー (feat. 初音ミク)",
+      "artist": "ヤマギシコージ",
+      "has_synced": false,
+      "path": "select/01_シュレディンガー・シュガー_(feat._初音ミク)_ヤマギシコージ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シュレディンガー・シュガー (feat. 初音ミク)",
+      "artist": "ヤマギシコージ",
+      "has_synced": false,
+      "path": "select/pl_01_シュレディンガー・シュガー_(feat._初音ミク)_ヤマギシコージ.txt"
+    }
+  ]
+}
